@@ -11,15 +11,15 @@
 - <b>Users Access and Permissions Management</b>
   - [User Management and Access Control Using Linux (Users, Access control, Permissions, Password Policies, Event Logging)](https://github.com/InfosecWanderer/User-Management-and-Access-Control-Using-Linux)</b></i>
 - <b>PowerShell and CMD</b>
-  - [FIM (File Integrity Monitoring Tool - Using Windows Powershell)](https://github.com/InfosecWanderer/FIM)
+  - [File Integrity Monitoring Tool - Using Windows Powershell](https://github.com/InfosecWanderer/FIM)
 - <b>Python</b>
-  - [Python File Update Algorithm (Algorithm for File Update Using Python)](https://github.com/InfosecWanderer/Python-File-Update-Algorithm)
+  - [Algorithm for File Update Using Python](https://github.com/InfosecWanderer/Python-File-Update-Algorithm)
 - <b>Analysis and Reporting - Attack Simulations and Scenarios</b>
-  - [Analyzing a SYN Flood Attack (Mitigating SYN Flood Attack: A Case Study)](https://github.com/InfosecWanderer/Analyzing-a-SYN-Flood-Attack)
-  - [Scenario-DDOS-Incident-Report-Analysis (DDOS Incident Report Analysis)](https://github.com/InfosecWanderer/Scenario-DDOS-Incident-Report-Analysis)
+  - [Analyzing a SYN Flood Attack](https://github.com/InfosecWanderer/Analyzing-a-SYN-Flood-Attack)
+  - [Scenario-DDOS-Incident-Report-Analysis](https://github.com/InfosecWanderer/Scenario-DDOS-Incident-Report-Analysis)
   - [Scenario-Incident-Response-Analysis (Incident report analysis for a multimedia company)](https://github.com/InfosecWanderer/Scenario-Incident-Response-Analysis)
 - <b>Presentations</b>
-  - [Intellectual Property (Intellectual Prorperty Management Presentation Slides)](https://github.com/InfosecWanderer/Intellectual-Property)
+  - [Intellectual Prorperty Management](https://github.com/InfosecWanderer/Intellectual-Property)
 
 <h2>📺 My Popular Youtube Videos</h2>
 
