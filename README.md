@@ -17,7 +17,7 @@
   - [Scenario-DDOS-Incident-Report-Analysis (DDOS Incident Report Analysis)](https://github.com/InfosecWanderer/Scenario-DDOS-Incident-Report-Analysis)
   - [Scenario-Incident-Response-Analysis (Incident report analysis for a multimedia company)](https://github.com/InfosecWanderer/Scenario-Incident-Response-Analysis)
 - <b>Presentations</b>
-  - [Intellectual Property(Intellectual Prorperty Management Presentation Slides)](https://github.com/InfosecWanderer/Intellectual-Property)
+  - [Intellectual Property (Intellectual Prorperty Management Presentation Slides)](https://github.com/InfosecWanderer/Intellectual-Property)
 
 <h2>📺 My Popular Youtube Videos</h2>
 
