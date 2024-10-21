@@ -8,6 +8,7 @@
   - [Vulnerability Assessment - Using Qualys Vulnerability Scanner](https://github.com/InfosecWanderer/Vulnerability-Assessment)
 - <b>Risks, Controls and Compliance</b>
   - [Risk Assessment Report, Controls and Compliance Checklist](https://github.com/InfosecWanderer/Controls-and-Compliance-Checklist)
+  - [Risk Register - (Bank Scenario)](https://github.com/InfosecWanderer/Risk-Register)
 - <b>Users Access and Permissions Management</b>
   - [User Management and Access Control Using Linux (Users, Access control, Permissions, Password Policies, Event Logging)](https://github.com/InfosecWanderer/User-Management-and-Access-Control-Using-Linux)</b></i>
 - <b>PowerShell and CMD</b>
