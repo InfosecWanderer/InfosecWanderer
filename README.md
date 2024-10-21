@@ -5,19 +5,21 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Vulnerability Management</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Vulnerability Assessment - Using Qualys Vulnerability Scanner](https://github.com/InfosecWanderer/Vulnerability-Assessment)
 - <b>Users Access and Permissions Management</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - User Management and Access Control Using Linux](https://github.com/InfosecWanderer/User-Management-and-Access-Control-Using-Linux)</b></i>
 - <b>PowerShell and CMD</b>
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [FIM (File Integrity Monitoring Tool - Using Windows Powershell)](https://github.com/InfosecWanderer/FIM)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Python File Update Algorithm (Algorithm for File Update Using Python)](https://github.com/InfosecWanderer/Python-File-Update-Algorithm)
+- <b>Analysis and Reporting - Attack Simulations and Scenarios</b>
+  - [Analyzing a SYN Flood Attack (Mitigating SYN Flood Attack: A Case Study)](https://github.com/InfosecWanderer/Analyzing-a-SYN-Flood-Attack)
+  - [Scenario-DDOS-Incident-Report-Analysis (DDOS Incident Report Analysis)](https://github.com/InfosecWanderer/Scenario-DDOS-Incident-Report-Analysis)
+  - [Scenario-Incident-Response-Analysis (Incident report analysis for a multimedia company)](https://github.com/InfosecWanderer/Scenario-Incident-Response-Analysis)
 
-<h2>📺 Popular Videos</h2>
+<h2>📺 My Popular Youtube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Master Vulnerability Management in Your Home Lab with Qualys ](https://www.youtube.com/watch?v=tfgaNNRI5IY&t=25s)
 
 <h2>👨‍💻 Certifications</h2>
 
