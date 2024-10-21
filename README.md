@@ -36,7 +36,7 @@
 
 <h2>👨‍💻 Education</h2>
 
-- Masters in Information and Information Technologies Security [active]
+- Masters in Information and Information Technologies Security [current]
 - B.S in Information Technology
 - Advanced Diploma in Software Engineering
 
