@@ -7,7 +7,7 @@
 - <b>Vulnerability Management</b>
   - [Vulnerability Assessment - Using Qualys Vulnerability Scanner](https://github.com/InfosecWanderer/Vulnerability-Assessment)
 - <b>Users Access and Permissions Management</b>
-  - User Management and Access Control Using Linux](https://github.com/InfosecWanderer/User-Management-and-Access-Control-Using-Linux)</b></i>
+  - [User Management and Access Control Using Linux](https://github.com/InfosecWanderer/User-Management-and-Access-Control-Using-Linux)</b></i>
 - <b>PowerShell and CMD</b>
   - [FIM (File Integrity Monitoring Tool - Using Windows Powershell)](https://github.com/InfosecWanderer/FIM)
 - <b>Python</b>
