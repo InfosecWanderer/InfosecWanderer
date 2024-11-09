@@ -10,7 +10,7 @@
   - [Risk Register - (Bank Scenario)](https://github.com/InfosecWanderer/Risk-Register)
   - [Security Risk Assessment Report - (Scenario)](https://github.com/InfosecWanderer/Risk-Assessment-Report)
   - [Risk Assessment, Controls and Compliance Checklist](https://github.com/InfosecWanderer/Controls-and-Compliance-Checklist)
-  - [Presentation: Vendor/Third-party Security Risk Assessment](https://github.com/InfosecWanderer/Presentation---Vendor-Third-party-Security-Risk-Assessment)
+  - [Presentation: Vendor/Third-party Security Risk Assessment](https://github.com/InfosecWanderer/Presentation-Vendor-Third-party-Security-Risk-Assessment)
 
 - <b>Users Access and Permissions Management</b>
   - [User Management and Access Control Using Linux (Users, Access control, Permissions, Password Policies, Event Logging)](https://github.com/InfosecWanderer/User-Management-and-Access-Control-Using-Linux)</b></i>
@@ -23,7 +23,7 @@
   - [Scenario-DDOS-Incident-Report-Analysis](https://github.com/InfosecWanderer/Scenario-DDOS-Incident-Report-Analysis)
   - [Scenario-Incident-Response-Analysis (Incident report analysis for a multimedia company)](https://github.com/InfosecWanderer/Scenario-Incident-Response-Analysis)
 - <b>Presentations</b>
-  - [Vendor/Third-party Security Risk Assessment](https://github.com/InfosecWanderer/Presentation---Vendor-Third-party-Security-Risk-Assessment)
+  - [Vendor/Third-party Security Risk Assessment](https://github.com/InfosecWanderer/Presentation-Vendor-Third-party-Security-Risk-Assessment)
   - [Intellectual Prorperty Management](https://github.com/InfosecWanderer/Intellectual-Property)
 <h2>📺 My Popular Youtube Videos</h2>
 
